@@ -18,4 +18,5 @@ And here are my solutions of the programming assignement
 
 ## References
 [[1] DeepLearning.AI TensorFlow Developer Professional Certificate Specialization -  DeepLearning.AI](https://www.coursera.org/professional-certificates/tensorflow-in-practice)
+
 [[2] TensorFlow official Documentation](https://www.tensorflow.org)
